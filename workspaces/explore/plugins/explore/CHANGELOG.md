@@ -1,5 +1,11 @@
 # @backstage-community/plugin-explore
 
+## 0.11.1
+
+### Patch Changes
+
+- 13c0def: Migrate the explore api, index page, and nav item to the new frontend system.
+
 ## 0.11.0
 
 ### Minor Changes
